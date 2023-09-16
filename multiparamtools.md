@@ -14,9 +14,7 @@ utility.
 
 This version aims to be more formal and structured, providing a clearer
 understanding of what \`Multiparamtools\` and LangChain agents are, as
-well as the benefits of using Retrieval
-
-Augmented Generation (RAG).
+well as the benefits of using Retrieval Augmented Generation (RAG).
 
 **Example**
 
